@@ -4,7 +4,7 @@ function main(sources) {
   return {
     DOM: Rx.Observable.of(
       div([
-        h1("Hello Cycle!")
+        h1("Hello Cycle and world!")
       ])
     )
   };
