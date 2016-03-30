@@ -1,3 +1,5 @@
+import CycleDOM from '@cycle/dom';
+
 const { h1, div, makeDOMDriver } = CycleDOM;
 
 function main(sources) {
